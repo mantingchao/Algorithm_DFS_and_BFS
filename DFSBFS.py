@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  2 22:03:22 2020
 
-@author: CHUNCHUN
+@author: Manting
 """
 import numpy as np
 import heapq as hq
